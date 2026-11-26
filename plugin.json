@@ -7,11 +7,11 @@
   "author": "Chris Caragianis",
   "authorEmail": "",
   "authorUrl": "",
-  "pluginUrl": "",
-  "manualUrl": "",
-  "sourceUrl": "",
+  "pluginUrl": "https://github.com/otherchris/intergint-systems",
+  "manualUrl": "https://github.com/otherchris/intergint-systems#readme",
+  "sourceUrl": "https://github.com/otherchris/intergint-systems",
   "donateUrl": "",
-  "changelogUrl": "",
+  "changelogUrl": "https://github.com/otherchris/intergint-systems/blob/main/CHANGELOG.md",
   "modules": [
     {
       "slug": "Attenuverter",
