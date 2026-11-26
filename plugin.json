@@ -17,7 +17,19 @@
       "slug": "Attenuverter",
       "name": "Attenuverter",
       "description": "Polyphonic attenuverter with DC offset",
-      "tags": ["Attenuator", "Polyphonic", "Utility"]
+      "tags": [
+        "Attenuator",
+        "Polyphonic",
+        "Utility"
+      ]
+    },
+    {
+      "slug": "PianoRoll",
+      "name": "Piano Roll",
+      "description": "Clickable 4-bar piano roll sequencer with 1V/oct and gate outputs",
+      "tags": [
+        "Sequencer"
+      ]
     }
   ]
 }

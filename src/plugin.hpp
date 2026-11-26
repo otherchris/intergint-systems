@@ -8,3 +8,4 @@ extern Plugin* pluginInstance;
 
 // One extern per module; defined at the bottom of each module's .cpp.
 extern Model* modelAttenuverter;
+extern Model* modelPianoRoll;

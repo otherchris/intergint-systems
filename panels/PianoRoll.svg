@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Panel source. Edit this file, then run `make panels` to regenerate res/PianoRoll.svg. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="152.4mm" height="128.5mm" viewBox="0 0 152.4 128.5">
+  <rect width="152.4" height="128.5" fill="#e8e4da"/>
+  <rect x="0" y="0" width="152.4" height="12" fill="#2b2d33"/>
+  <rect x="0" y="116.5" width="152.4" height="12" fill="#2b2d33"/>
+
+  <text x="76.2" y="8.6" font-size="3.0" text-anchor="middle" fill="#e8e4da" letter-spacing="0.15">PIANO ROLL</text>
+
+  <!-- Bezel behind the piano-roll display (display widget sits at x=4..148.4, y=16..88) -->
+  <rect x="3" y="15" width="146.4" height="74" rx="1" fill="#2b2d33"/>
+
+  <text x="20" y="99.4" font-size="2.2" text-anchor="middle" fill="#2b2d33">CLOCK</text>
+  <text x="36" y="99.4" font-size="2.2" text-anchor="middle" fill="#2b2d33">RESET</text>
+
+  <text x="67" y="94.2" font-size="2.2" text-anchor="middle" fill="#2b2d33">VOICE</text>
+  <text x="88.6" y="110.8" font-size="2.0" text-anchor="start" fill="#2b2d33">OCT</text>
+  <rect x="106.4" y="95" width="36" height="18" rx="1" fill="#2b2d33"/>
+  <text x="116.4" y="99.4" font-size="2.2" text-anchor="middle" fill="#e8e4da">V/OCT</text>
+  <text x="132.4" y="99.4" font-size="2.2" text-anchor="middle" fill="#e8e4da">GATE</text>
+
+  <text x="76.2" y="123.4" font-size="1.7" text-anchor="middle" fill="#e8e4da" letter-spacing="0.05">INTERGINT</text>
+</svg>

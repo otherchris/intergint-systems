@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Panel source. Edit this file, then run `make panels` to regenerate res/Attenuverter.svg. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="15.24mm" height="128.5mm" viewBox="0 0 15.24 128.5">
+  <rect width="15.24" height="128.5" fill="#e8e4da"/>
+  <rect x="0" y="0" width="15.24" height="12" fill="#2b2d33"/>
+  <rect x="0" y="116.5" width="15.24" height="12" fill="#2b2d33"/>
+
+  <text x="7.62" y="8.6" font-size="2.6" text-anchor="middle" fill="#e8e4da" letter-spacing="0.1">ATV</text>
+
+  <text x="7.62" y="23.6" font-size="2.2" text-anchor="middle" fill="#2b2d33">LEVEL</text>
+  <text x="2.0" y="37.6" font-size="2.0" text-anchor="middle" fill="#2b2d33">-</text>
+  <text x="13.24" y="37.6" font-size="2.0" text-anchor="middle" fill="#2b2d33">+</text>
+
+  <text x="7.62" y="48.6" font-size="2.2" text-anchor="middle" fill="#2b2d33">OFFSET</text>
+  <text x="2.0" y="62.6" font-size="2.0" text-anchor="middle" fill="#2b2d33">-</text>
+  <text x="13.24" y="62.6" font-size="2.0" text-anchor="middle" fill="#2b2d33">+</text>
+
+  <text x="7.62" y="79.4" font-size="2.2" text-anchor="middle" fill="#2b2d33">IN</text>
+
+  <rect x="1.5" y="95" width="12.24" height="18" rx="1" fill="#2b2d33"/>
+  <text x="7.62" y="99.4" font-size="2.2" text-anchor="middle" fill="#e8e4da">OUT</text>
+
+  <text x="7.62" y="123.4" font-size="1.7" text-anchor="middle" fill="#e8e4da" letter-spacing="0.05">INTERGINT</text>
+</svg>
